@@ -30,7 +30,7 @@ Example usage:
 
 ```
 claude
-Run myhugofixer --low v0.146.0 and apply the Hugo upgrades described. Commit when done.
+Run myhugofixer --low v0.146.0 and apply the Hugo upgrades described. Confirm by running and make sure there's no warnings. Commit when done.
 ```
 
 Or without interaction:
